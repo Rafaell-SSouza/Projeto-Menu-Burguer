@@ -11,4 +11,4 @@
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/forEach.jpg?raw=true" />
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/map.jpg?raw=true" />
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/reduce.jpg?raw=true" />
-<img width="400" align="left" src="https://github.com/Rafaell-SSouza/PetShop/blob/main/img/Desktop.png?raw=true" />
+<img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/filter.jpg?raw=true" />
