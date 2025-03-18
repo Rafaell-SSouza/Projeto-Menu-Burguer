@@ -8,14 +8,14 @@
 <br>
 <h2>Um pequeno menu onde é possível visualisar os itens com 10% de desconto, valor total dos itens e somente produtos veganos.</h2>
 <br>
-<p>forEach</p>
+<p><b>forEach</b></p>
 <img width="90%" align="center" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/forEach.jpg?raw=true" />
 <br>
-<p>map</p>
+<p><b>map</b></p>
 <img width="90%" align="center" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/map.jpg?raw=true" />
 <br>
-<p>reduce</p>
+<p><b>reduce</b></p>
 <img width="90%" align="center" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/reduce.jpg?raw=true" />
 <br>
-<p>filter</p>
+<p><b>filter</b></p>
 <img width="90%" align="center" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/filter.jpg?raw=true" />
