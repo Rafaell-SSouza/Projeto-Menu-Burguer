@@ -9,6 +9,9 @@
 <h2>Um pequeno menu onde é possível visualisar os itens com 10% de desconto, valor total dos itens e somente produtos veganos.</h2>
 <br>
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/forEach.jpg?raw=true" />
+<br>
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/map.jpg?raw=true" />
+<br>
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/reduce.jpg?raw=true" />
+<br>
 <img width="400" align="left" src="https://github.com/Rafaell-SSouza/Projeto-Menu-Burguer/blob/main/filter.jpg?raw=true" />
